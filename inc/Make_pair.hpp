@@ -1,3 +1,6 @@
 #pragma once
 
-#include "namespace.hpp"
+namespace ft
+{
+
+}
